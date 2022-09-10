@@ -12,7 +12,7 @@
 ### Time Required to finish the project
     (30 Mins)
 
- [Deployed Link](https://css-html-project-four.netlify.app/)
+ [Deployed Link](https://project-4-analyticsfirm-landingpage.netlify.app/)
 
 ![badge](https://img.shields.io/badge/Deployment-Up-green)
 
